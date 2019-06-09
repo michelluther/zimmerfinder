@@ -1,0 +1,10 @@
+[{
+    "name": "zimmer 1",
+    "betten": 2,
+    "besetzung": []
+},
+{
+    "name": "zimmer 2",
+    "betten": 3,
+    "besetzung": []
+}]

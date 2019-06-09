@@ -1,0 +1,21 @@
+[{
+    "kind": "Max",
+    "wunsch1": "Moritz",
+    "wunsch2": "Sarah"
+},{
+    "kind": "Moritz",
+    "wunsch1": "Sarah",
+    "wunsch2": "Susi"
+},{
+    "kind": "Susi",
+    "wunsch1": "Moritz",
+    "wunsch2": "Sarah"
+},{
+    "kind": "Sarah",
+    "wunsch1": "Moritz",
+    "wunsch2": "Susi"
+},{
+    "kind": "Robin",
+    "wunsch1": "Moritz",
+    "wunsch2": "Susi"
+}]
